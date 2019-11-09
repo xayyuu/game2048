@@ -1,4 +1,4 @@
-
+# game2048
 # 文件说明
 &emsp;&emsp;game2048.py  # 实现2048游戏的主程序  
 &emsp;&emsp;game2048_gui.py  # 实现2048游戏的GUI程序，基于Pygame    
@@ -52,4 +52,3 @@ python game2048.py # or python game2048_gui.py
 
 
 如果有bug，敬请指正！  
-# game2048
